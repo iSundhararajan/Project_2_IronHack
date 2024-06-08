@@ -50,4 +50,4 @@ This analysis provided insights into the impact of a new UI and in-context promp
 
 ## Links
 - Trello Board: [Trello Board](https://trello.com/invite/b/VLVvAiMi/ATTI415c9f23f71c2c67801ce3c0b4c6cbe71E1487DF/project-2-unit-5)
-- Presentation: [Google Slides Presentation]()
+- Presentation: [Google Slides Presentation](https://docs.google.com/presentation/d/1WC-Irc6GDvvm3SVBpgjDhoqktpBFD26tVz-3sLICGDk/edit?usp=sharing)
