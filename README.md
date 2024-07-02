@@ -1,5 +1,5 @@
 # Vanguard-ab-test
-#### By: Ishwarya Sundhararajan, Jose Maldonando, Rayner Morla
+#### By: Ishwarya Sundhararajan, Josean Maldonando, Rayner Morla
 
 ## Table of Contents
 1. [Context](#context)
